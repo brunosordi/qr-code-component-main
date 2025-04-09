@@ -17,7 +17,7 @@ Este é um projeto de um componente de QR code para o desafio QR Code Component 
 
 ## Links
 
-- **Live Site URL**: [[Qr-Code-component]](https://brunosordi.github.io/qr-code-component-main/)
+- **Live Site URL**: [Qr-Code-component](https://brunosordi.github.io/qr-code-component-main/)
 
 ## Meu Processo
 
@@ -36,5 +36,5 @@ Pretendo continuar aprimorando meu conhecimento em Front-end, explorando novas t
 
 ## Autor
 
-- **Website**: [@brunosordi]([https://www.example.com](https://github.com/brunosordi))
+- **Website** -  [@brunosordi](https://github.com/brunosordi)
 - **Frontend Mentor** - [@brunosordi](https://www.frontendmentor.io/profile/brunosordi)
